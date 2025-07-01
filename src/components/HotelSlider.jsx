@@ -9,65 +9,65 @@ const allDestinations = [
     name: "Jumeirah",
    
     
-    image: "https://cdn.jumeirah.com/-/mediadh/dh/hospitality/jumeirah/article/stories/dubai/our-a-z-of-dubai/high_resolution_300dpi-burj-al-arab-profile-exterior_6-4.jpg?h=1080&w=1620&revision=fe2ac22b-02b8-442b-8f8e-0faa35a7a961?height=300&width=400",
+    image: "https://i.pinimg.com/236x/e5/69/88/e5698837d0c081eea9d5aa2c42532d58.jpg?h=1080&w=1620&revision=fe2ac22b-02b8-442b-8f8e-0faa35a7a961?height=300&width=400",
     category: "Adventure",
   },
   {
     name: "Lhw",
     
     
-    image: "https://static-new.lhw.com/HotelImages/Final/LW0430/lw0430_177729896_720x450.jpg?height=300&width=400",
+    image: "https://d1hbpr09pwz0sk.cloudfront.net/logo_url/the-leading-hotels-of-the-world-57993008?height=300&width=400",
     category: "Beach",
   },
   
   {
     name: "Melia",
    
-    image: "https://www.udeaudio.com/wp-content/uploads/melia-alicante.jpg?h=1400&q=80?height=300&width=400",
+    image: "https://www.prensa-latina.cu/wp-content/uploads/2024/05/Melia-Hotels-International-Cuba-1.jpg?h=1400&q=80?height=300&width=400",
     category: "City",
   },
   {
     name: "Taj",
    
-    image: "https://cdn.sanity.io/images/ocl5w36p/prod3/f76375201759ba3269569a74defcfbf114ba974e-1280x1760.jpg?w=480&auto=format&dpr=2?height=300&width=400",
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Taj_Hotels_logo.svg/1200px-Taj_Hotels_logo.svg.png?w=480&auto=format&dpr=2?height=300&width=400",
     category: "Cultural",
   },
   {
     name: "Oberoi",
     country: "India",
-    image: "https://www.oberoihotels.com/-/media/oberoi-hotels/Home-Detail/udaivilas.png?height=300&width=400",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS55zWndPgolKBzpZ_gbStRxcomainENMJlNQ&s?height=300&width=400",
     category: "Beach",
   },
   {
     name: "Accor",
     country: "France",
     
-    image: "https://www.hoteliermiddleeast.com/2021/06/xLmScevt-Raffles-Dubai-Accor.jpg?height=300&width=400",
+    image: "https://static.wikia.nocookie.net/logopedia/images/c/cc/Accor_2019_%28flat_gold%29.svg/revision/latest/scale-to-width-down/250?cb=20240624001733?height=300&width=400",
     category: "City",
   },
   {
     name: "Marriott",
     country: "",
     
-    image: "https://content.jdmagicbox.com/comp/mussoorie/s2/9999pm135.m135.140904145659.v2s2/catalogue/j-w-marriott-kempty-mussoorie-resorts-tvybaekthg.jpg?height=300&width=400",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhMiGYiZ0FFu1y85gft-7FnOVIXNlnzQyYQ&s?height=300&width=400",
     category: "Mountain",
   },
   {
     name: "Four Seasons",
     country: "Mexico",
-    image: "https://www.fourseasons.com/alt/img-opt/~70.1530.4,4444-0,0000-2995,5556-1685,0000/publish/content/dam/fourseasons/images/web/OAH/OAH_565_original.jpg?height=300&width=400",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Four_Seasons_logo.svg/1200px-Four_Seasons_logo.svg.png?height=300&width=400",
     category: "Beach",
   },
   {
     name: "Hyatt",
     country: "Greece",
-    image: "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/21/full/1726857979-1578.jpg?height=300&width=400",
+    image: "https://logowik.com/content/uploads/images/hyatt-hotels-corporation9011.jpg?height=300&width=400",
     category: "Romantic",
   },
   {
     name: "Ritz Carlton",
     country: "UAE",
-    image: "https://cache.marriott.com/content/dam/marriott-digital/rz/greater-china/hws/t/tsnrz/en_us/photo/under-review/assets/tsnrz-exterior-0011.jpg?height=300&width=400",
+    image: "https://upload.wikimedia.org/wikipedia/en/a/a0/RitzCarlton.svg?height=300&width=400",
     category: "City",
   },
   
